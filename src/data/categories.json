@@ -1,0 +1,571 @@
+{
+  "adaptation": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "adolescents": [
+    "Family, Youth & Children"
+  ],
+  "adoption": [
+    "Implementation & Evaluation"
+  ],
+  "advocacy": [
+    "Policy & Advocacy"
+  ],
+  "assets": [
+    "Economics & Livelihood"
+  ],
+  "attitude": [
+    "Behavior & Behavior Change"
+  ],
+  "autonomy": [
+    "Behavior & Behavior Change"
+  ],
+  "barriers": [
+    "Culture & Identity"
+  ],
+  "behavior change": [
+    "Behavior & Behavior Change"
+  ],
+  "behavioral assessment": [
+    "Behavior & Behavior Change"
+  ],
+  "behavioral intentions": [
+    "Behavior & Behavior Change"
+  ],
+  "belonging": [
+    "Community & Participation"
+  ],
+  "bereavement": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "bystander effect": [
+    "Behavior & Behavior Change"
+  ],
+  "burdensomeness": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "canada": [
+    "Policy & Advocacy"
+  ],
+  "capabilities": [
+    "Economics & Livelihood"
+  ],
+  "capability": [
+    "Behavior & Behavior Change"
+  ],
+  "capacity building": [
+    "Community & Participation"
+  ],
+  "capitals": [
+    "Economics & Livelihood"
+  ],
+  "child well-being": [
+    "Family, Youth & Children"
+  ],
+  "child welfare": [
+    "Family, Youth & Children"
+  ],
+  "choice architecture": [
+    "Behavior & Behavior Change"
+  ],
+  "chronic illness": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "civic engagement": [
+    "Community & Participation"
+  ],
+  "collective action": [
+    "Community & Participation"
+  ],
+  "collective impact": [
+    "Community & Participation"
+  ],
+  "communication": [
+    "Behavior & Behavior Change"
+  ],
+  "communication channels": [
+    "Community & Participation"
+  ],
+  "community": [
+    "Community & Participation"
+  ],
+  "community action": [
+    "Community & Participation"
+  ],
+  "community assets": [
+    "Community & Participation"
+  ],
+  "community development": [
+    "Community & Participation"
+  ],
+  "community engagement": [
+    "Community & Participation"
+  ],
+  "community organizing": [
+    "Community & Participation"
+  ],
+  "community psychology": [
+    "Community & Participation"
+  ],
+  "community-based": [
+    "Community & Participation"
+  ],
+  "competence": [
+    "Behavior & Behavior Change"
+  ],
+  "conformity": [
+    "Behavior & Behavior Change"
+  ],
+  "control": [
+    "Behavior & Behavior Change"
+  ],
+  "cost-effectiveness": [
+    "Economics & Livelihood"
+  ],
+  "countermeasures": [
+    "Implementation & Evaluation"
+  ],
+  "cultural competence": [
+    "Culture & Identity"
+  ],
+  "cultural humility": [
+    "Culture & Identity"
+  ],
+  "cultural identity": [
+    "Culture & Identity"
+  ],
+  "cultural safety": [
+    "Culture & Identity"
+  ],
+  "culture": [
+    "Culture & Identity"
+  ],
+  "decolonizing methods": [
+    "Culture & Identity"
+  ],
+  "decision-making": [
+    "Behavior & Behavior Change"
+  ],
+  "determinants": [
+    "Equity & Disparities"
+  ],
+  "development": [
+    "Family, Youth & Children"
+  ],
+  "disability": [
+    "Culture & Identity"
+  ],
+  "discrimination": [
+    "Culture & Identity",
+    "Equity & Disparities"
+  ],
+  "ecological": [
+    "Community & Participation"
+  ],
+  "ecological model": [
+    "Community & Participation"
+  ],
+  "ecological systems": [
+    "Community & Participation"
+  ],
+  "economic impact": [
+    "Economics & Livelihood"
+  ],
+  "economic pressure": [
+    "Economics & Livelihood"
+  ],
+  "education": [
+    "Implementation & Evaluation"
+  ],
+  "empowerment": [
+    "Community & Participation"
+  ],
+  "environment": [
+    "Community & Participation"
+  ],
+  "environmental context": [
+    "Community & Participation"
+  ],
+  "epidemiology": [
+    "Infectious Disease & Risk"
+  ],
+  "equity": [
+    "Equity & Disparities"
+  ],
+  "events": [
+    "Implementation & Evaluation"
+  ],
+  "exosystem": [
+    "Community & Participation"
+  ],
+  "evaluation": [
+    "Implementation & Evaluation"
+  ],
+  "fear appeals": [
+    "Behavior & Behavior Change"
+  ],
+  "feminism": [
+    "Culture & Identity"
+  ],
+  "freedom": [
+    "Economics & Livelihood"
+  ],
+  "gender": [
+    "Culture & Identity"
+  ],
+  "grief stages": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "grassroots": [
+    "Community & Participation"
+  ],
+  "group dynamics": [
+    "Community & Participation"
+  ],
+  "health": [
+    "Behavior & Behavior Change"
+  ],
+  "health disparities": [
+    "Equity & Disparities"
+  ],
+  "health education": [
+    "Behavior & Behavior Change"
+  ],
+  "health equity": [
+    "Equity & Disparities"
+  ],
+  "health literacy": [
+    "Behavior & Behavior Change"
+  ],
+  "health promotion": [
+    "Behavior & Behavior Change"
+  ],
+  "health systems": [
+    "Implementation & Evaluation"
+  ],
+  "heredity": [
+    "Equity & Disparities"
+  ],
+  "hiv prevention": [
+    "Infectious Disease & Risk"
+  ],
+  "hiv risk": [
+    "Infectious Disease & Risk"
+  ],
+  "holistic approach": [
+    "Community & Participation"
+  ],
+  "illness": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "implementation": [
+    "Implementation & Evaluation"
+  ],
+  "implementation science": [
+    "Implementation & Evaluation"
+  ],
+  "indigenous health": [
+    "Culture & Identity"
+  ],
+  "indigenous knowledge": [
+    "Culture & Identity"
+  ],
+  "indigenous research": [
+    "Culture & Identity"
+  ],
+  "indigenous youth": [
+    "Culture & Identity",
+    "Family, Youth & Children"
+  ],
+  "inequality": [
+    "Equity & Disparities"
+  ],
+  "inequities": [
+    "Equity & Disparities"
+  ],
+  "injury prevention": [
+    "Infectious Disease & Risk"
+  ],
+  "innovation": [
+    "Implementation & Evaluation"
+  ],
+  "intervention": [
+    "Implementation & Evaluation"
+  ],
+  "intervention design": [
+    "Implementation & Evaluation"
+  ],
+  "intersectional stigma": [
+    "Equity & Disparities"
+  ],
+  "intersectionality": [
+    "Culture & Identity"
+  ],
+  "iteration": [
+    "Implementation & Evaluation"
+  ],
+  "lifestyle": [
+    "Behavior & Behavior Change"
+  ],
+  "loss": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "lgbtq+": [
+    "Culture & Identity"
+  ],
+  "mesosystem": [
+    "Community & Participation"
+  ],
+  "microsystem": [
+    "Community & Participation"
+  ],
+  "minority health": [
+    "Equity & Disparities"
+  ],
+  "minority stress": [
+    "Stress, Coping, & Mental Health",
+    "Culture & Identity"
+  ],
+  "motivation": [
+    "Behavior & Behavior Change"
+  ],
+  "multidisciplinary": [
+    "Implementation & Evaluation"
+  ],
+  "multiple levels": [
+    "Community & Participation"
+  ],
+  "networking": [
+    "Community & Participation"
+  ],
+  "networks": [
+    "Community & Participation"
+  ],
+  "normative beliefs": [
+    "Behavior & Behavior Change"
+  ],
+  "nudges": [
+    "Behavior & Behavior Change"
+  ],
+  "one health": [
+    "Infectious Disease & Risk"
+  ],
+  "organizational change": [
+    "Implementation & Evaluation"
+  ],
+  "patient-centered": [
+    "Implementation & Evaluation"
+  ],
+  "patient engagement": [
+    "Implementation & Evaluation"
+  ],
+  "peer influence": [
+    "Behavior & Behavior Change"
+  ],
+  "phases": [
+    "Implementation & Evaluation"
+  ],
+  "policy": [
+    "Policy & Advocacy"
+  ],
+  "policy change": [
+    "Policy & Advocacy"
+  ],
+  "population health": [
+    "Implementation & Evaluation"
+  ],
+  "population impact": [
+    "Implementation & Evaluation"
+  ],
+  "postcolonial": [
+    "Culture & Identity"
+  ],
+  "power": [
+    "Culture & Identity"
+  ],
+  "power dynamics": [
+    "Culture & Identity"
+  ],
+  "power imbalances": [
+    "Culture & Identity"
+  ],
+  "prevention": [
+    "Infectious Disease & Risk"
+  ],
+  "prevention impact": [
+    "Infectious Disease & Risk"
+  ],
+  "program planning": [
+    "Implementation & Evaluation"
+  ],
+  "program theory": [
+    "Implementation & Evaluation"
+  ],
+  "protective factors": [
+    "Family, Youth & Children"
+  ],
+  "psychoeducation": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "psychological constructs": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "public health": [
+    "Implementation & Evaluation"
+  ],
+  "public health impact": [
+    "Implementation & Evaluation"
+  ],
+  "public opinion": [
+    "Policy & Advocacy"
+  ],
+  "quality care": [
+    "Implementation & Evaluation"
+  ],
+  "quality improvement": [
+    "Implementation & Evaluation"
+  ],
+  "race": [
+    "Culture & Identity"
+  ],
+  "racial identity": [
+    "Culture & Identity",
+    "Equity & Disparities"
+  ],
+  "readiness": [
+    "Behavior & Behavior Change"
+  ],
+  "real-time data": [
+    "Implementation & Evaluation"
+  ],
+  "reciprocal determinism": [
+    "Behavior & Behavior Change"
+  ],
+  "relatedness": [
+    "Behavior & Behavior Change"
+  ],
+  "resilience": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "resiliency": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "responsibility": [
+    "Behavior & Behavior Change"
+  ],
+  "risk factors": [
+    "Infectious Disease & Risk"
+  ],
+  "risk reduction": [
+    "Infectious Disease & Risk"
+  ],
+  "routine": [
+    "Implementation & Evaluation"
+  ],
+  "sanctions": [
+    "Policy & Advocacy"
+  ],
+  "service delivery": [
+    "Community & Participation"
+  ],
+  "sexual behavior": [
+    "Behavior & Behavior Change",
+    "Infectious Disease & Risk"
+  ],
+  "shared decision-making": [
+    "Implementation & Evaluation"
+  ],
+  "social change": [
+    "Community & Participation"
+  ],
+  "social determinants": [
+    "Equity & Disparities"
+  ],
+  "social equity": [
+    "Equity & Disparities"
+  ],
+  "social gradient": [
+    "Equity & Disparities"
+  ],
+  "social injustice": [
+    "Equity & Disparities"
+  ],
+  "social justice": [
+    "Equity & Disparities"
+  ],
+  "social marketing": [
+    "Community & Participation"
+  ],
+  "social model": [
+    "Culture & Identity"
+  ],
+  "social networks": [
+    "Community & Participation"
+  ],
+  "social psychology": [
+    "Behavior & Behavior Change"
+  ],
+  "social support": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "stress": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "stress appraisal": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "structural inequities": [
+    "Equity & Disparities"
+  ],
+  "substance abuse": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "substance use": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "suicide": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "susceptibility": [
+    "Behavior & Behavior Change"
+  ],
+  "sustainability": [
+    "Economics & Livelihood"
+  ],
+  "team development": [
+    "Community & Participation"
+  ],
+  "therapy": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "three domains": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "transformative": [
+    "Implementation & Evaluation"
+  ],
+  "ttm": [
+    "Behavior & Behavior Change"
+  ],
+  "trust": [
+    "Community & Participation"
+  ],
+  "vulnerability": [
+    "Economics & Livelihood"
+  ],
+  "well-being": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "wellness skills": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "work stress": [
+    "Stress, Coping, & Mental Health"
+  ],
+  "youth": [
+    "Family, Youth & Children"
+  ],
+  "youth development": [
+    "Family, Youth & Children"
+  ]
+}

@@ -1,0 +1,1003 @@
+
+[
+  {
+    "id": 1,
+    "name": "Health Belief Model",
+    "description": "Explains how individual beliefs influence engagement in health behaviors and service utilization.",
+    "reference": "Rosenstock, I. M. (1966). Why people use health services. The Milbank Memorial Fund Quarterly, 44(3), 94–127. https://doi.org/10.1111/j.1468-0009.1966.tb00390.x",
+    "url": "https://doi.org/10.1111/j.1468-0009.1966.tb00390.x",
+    "keywords": ["health behavior", "perceived barriers", "susceptibility", "self-efficacy"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Health_belief_model.png/1200px-Health_belief_model.png",
+    "imageReference": "Wikipedia. (n.d.). Health Belief Model [Image]. https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Health_belief_model.png/1200px-Health_belief_model.png"
+  },
+  {
+    "id": 2,
+    "name": "Social Cognitive Theory",
+    "description": "Emphasizes reciprocal interactions among personal, behavioral, and environmental factors.",
+    "reference": "Bandura, A. (1986). Social foundations of thought and action: A social cognitive theory. Prentice Hall.",
+    "url": "https://www.worldcat.org/oclc/12021527",
+    "keywords": ["self-efficacy", "observational learning", "reciprocal determinism"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Social_Cognitive_Theory_diagram.jpg",
+    "imageReference": "Wikipedia. (n.d.). Social Cognitive Theory [Image]. https://upload.wikimedia.org/wikipedia/commons/9/92/Social_Cognitive_Theory_diagram.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Transtheoretical Model (Stages of Change)",
+    "description": "Describes how individuals progress through stages when modifying behavior over time.",
+    "reference": "Prochaska, J. O., & DiClemente, C. C. (1983). Stages and processes of self-change of smoking. Progress in Behavior Modification, 19, 275–309.",
+    "url": "https://www.worldcat.org/oclc/19469587",
+    "keywords": ["behavior change", "readiness", "motivation"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Stages_of_change.png",
+    "imageReference": "Wikipedia. (n.d.). Transtheoretical Model [Image]. https://upload.wikimedia.org/wikipedia/commons/1/12/Stages_of_change.png"
+  },
+  {
+    "id": 4,
+    "name": "Theory of Planned Behavior",
+    "description": "Links attitudes, subjective norms, and perceived behavioral control to behavior intentions.",
+    "reference": "Ajzen, I. (1991). The theory of planned behavior. Organizational Behavior and Human Decision Processes, 50(2), 179–211. https://doi.org/10.1016/0749-5978(91)90020-T",
+    "url": "https://doi.org/10.1016/0749-5978(91)90020-T",
+    "keywords": ["intention", "subjective norms", "attitude"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Theory_of_Planned_Behaviour.png/550px-Theory_of_Planned_Behaviour.png",
+    "imageReference": "Wikipedia. (n.d.). Theory of Planned Behavior [Image]. https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Theory_of_Planned_Behaviour.png/550px-Theory_of_Planned_Behaviour.png"
+  },
+  {
+    "id": 5,
+    "name": "PRECEDE-PROCEED Model",
+    "description": "Guides systematic assessment, planning, implementation, and evaluation of health promotion programs.",
+    "reference": "Green, L. W., & Kreuter, M. W. (1999). Health promotion planning: An educational and ecological approach (3rd ed.). Mayfield Publishing.",
+    "url": "https://www.worldcat.org/oclc/39786600",
+    "keywords": ["planning", "evaluation", "health promotion"],
+    "image": "https://www.ruralhealthinfo.org/assets/1203-5271/precede-proceed-model.png",
+    "imageReference": "Rural Health Information Hub. (n.d.). PRECEDE-PROCEED Model [Image]. https://www.ruralhealthinfo.org/"
+  },
+  {
+    "id": 6,
+    "name": "Socio-Ecological Model",
+    "description": "Addresses interrelated individual, interpersonal, organizational, community, and policy factors in health.",
+    "reference": "Bronfenbrenner, U. (1979). The ecology of human development. Harvard University Press.",
+    "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674224575",
+    "keywords": ["multiple levels", "ecological systems", "environment"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bronfenbrenner%27s_Ecological_Theory_of_Development_%28English%29.jpg",
+    "imageReference": "Wikipedia. (n.d.). Socio-ecological model [Image]. https://upload.wikimedia.org/wikipedia/commons/9/9b/Bronfenbrenner%27s_Ecological_Theory_of_Development_%28English%29.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Social Determinants of Health Framework",
+    "description": "Identifies how social, economic, and environmental factors shape population health outcomes.",
+    "reference": "World Health Organization. (2008). Closing the gap in a generation: Health equity through action on the social determinants of health. WHO.",
+    "url": "https://www.who.int/publications-detail-redirect/WHO-IER-CSDH-08.1",
+    "keywords": ["equity", "poverty", "inequality"],
+    "image": "https://www.cdc.gov/socialdeterminants/images/SDOH-framework.jpg",
+    "imageReference": "Centers for Disease Control and Prevention. (n.d.). Social Determinants of Health [Image]. https://www.cdc.gov/"
+  },
+  {
+    "id": 8,
+    "name": "Stress Process Model",
+    "description": "Explores how social stressors, coping resources, and processes affect well-being over time.",
+    "reference": "Pearlin, L. I., Lieberman, M. A., Menaghan, E. G., & Mullan, J. T. (1981). The stress process. Journal of Health and Social Behavior, 22(4), 337–356. https://doi.org/10.2307/2136676",
+    "url": "https://doi.org/10.2307/2136676",
+    "keywords": ["stress", "coping", "social support"],
+    "image": "https://www.researchgate.net/profile/Linda-George-3/publication/247740075/figure/fig1/AS:298739610484739@1448219078973/The-Stress-Process-Pearlin-et-al-1981.png",
+    "imageReference": "Pearlin et al. (1981). The stress process [Image]. Journal of Health and Social Behavior."
+  },
+  {
+    "id": 9,
+    "name": "Cultural Competence Continuum",
+    "description": "Depicts organizational progression from cultural destructiveness to cultural proficiency.",
+    "reference": "Cross, T. L., Bazron, B. J., Dennis, K. W., & Isaacs, M. R. (1989). Toward a culturally competent system of care. Georgetown University Child Development Center.",
+    "url": "https://eric.ed.gov/?id=ED330171",
+    "keywords": ["cultural competence", "diversity", "service delivery"],
+    "image": "https://nccc.georgetown.edu/images/continuum.jpg",
+    "imageReference": "National Center for Cultural Competence. (n.d.). Cultural Competence Continuum [Image]. https://nccc.georgetown.edu/"
+  },
+  {
+    "id": 10,
+    "name": "Diffusion of Innovations",
+    "description": "Examines how new ideas, behaviors, or products spread through populations over time.",
+    "reference": "Rogers, E. M. (1962). Diffusion of innovations. Free Press.",
+    "url": "https://www.worldcat.org/oclc/254636",
+    "keywords": ["innovation", "adoption", "communication channels"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Diffusion_of_ideas.svg/600px-Diffusion_of_ideas.svg.png",
+    "imageReference": "Wikipedia. (n.d.). Diffusion of Innovations [Image]. https://upload.wikimedia.org/"
+  },
+  {
+    "id": 11,
+    "name": "Intersectionality Framework",
+    "description": "Explores overlapping social identities and systemic oppressions shaping experiences and outcomes.",
+    "reference": "Crenshaw, K. (1989). Demarginalizing the intersection of race and sex. University of Chicago Legal Forum, 1989, 139–167.",
+    "url": "https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8/",
+    "keywords": ["race", "gender", "discrimination", "power"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Intersectionality_Chart.png/800px-Intersectionality_Chart.png",
+    "imageReference": "Wikipedia. (n.d.). Intersectionality [Image]. https://upload.wikimedia.org/"
+  },
+  {
+    "id": 12,
+    "name": "Ecological Systems Theory",
+    "description": "Emphasizes nested environmental systems influencing human growth and social development.",
+    "reference": "Bronfenbrenner, U. (1977). Toward an experimental ecology of human development. American Psychologist, 32(7), 513–531. https://doi.org/10.1037/0003-066X.32.7.513",
+    "url": "https://doi.org/10.1037/0003-066X.32.7.513",
+    "keywords": ["microsystem", "mesosystem", "exosystem"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bronfenbrenner%27s_Ecological_Theory.svg/400px-Bronfenbrenner%27s_Ecological_Theory.svg.png",
+    "imageReference": "Wikipedia. (n.d.). Ecological Systems Theory [Image]. https://upload.wikimedia.org/"
+  },
+  {
+    "id": 13,
+    "name": "Transactional Model of Stress and Coping",
+    "description": "Highlights personal appraisal and coping responses to stress-inducing events or environments.",
+    "reference": "Lazarus, R. S., & Folkman, S. (1984). Stress, appraisal, and coping. Springer.",
+    "url": "https://www.worldcat.org/oclc/9683158",
+    "keywords": ["stress appraisal", "coping strategies", "adaptation"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Transactional_Model_of_Stress_and_Coping.png",
+    "imageReference": "Wikipedia. (n.d.). Transactional Model of Stress and Coping [Image]. https://upload.wikimedia.org/"
+  },
+  {
+    "id": 14,
+    "name": "Empowerment Theory",
+    "description": "Focuses on processes enabling individuals and communities to gain influence over resources.",
+    "reference": "Zimmerman, M. A. (1995). Psychological empowerment: Issues and illustrations. American Journal of Community Psychology, 23(5), 581–599. https://doi.org/10.1007/BF02506983",
+    "url": "https://doi.org/10.1007/BF02506983",
+    "keywords": ["empowerment", "control", "community psychology"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Empowerment_theory_diagram.png/600px-Empowerment_theory_diagram.png",
+    "imageReference": "Wikipedia. (n.d.). Empowerment Theory [Image]. https://upload.wikimedia.org/"
+  },
+  {
+    "id": 15,
+    "name": "Community-Based Participatory Research (CBPR) Model",
+    "description": "Engages community in research to enhance relevance, ownership, and sustainability of findings.",
+    "reference": "Israel, B. A., Schulz, A. J., Parker, E. A., & Becker, A. B. (1998). Review of community-based research. Annual Review of Public Health, 19, 173–202. https://doi.org/10.1146/annurev.publhealth.19.1.173",
+    "url": "https://doi.org/10.1146/annurev.publhealth.19.1.173",
+    "keywords": ["participatory research", "collaboration", "community engagement"],
+    "image": "https://depts.washington.edu/ccph/pdf_files/CBPR-model.jpg",
+    "imageReference": "University of Washington. (n.d.). CBPR Model [Image]. https://depts.washington.edu/ccph/"
+  },
+  {
+    "id": 16,
+    "name": "AIDS Risk Reduction Model",
+    "description": "Combines various behavior change theories to reduce HIV/AIDS risk behaviors.",
+    "reference": "Catania, J. A., Kegeles, S. M., & Coates, T. J. (1990). Toward an understanding of risk behavior. Health Education Quarterly, 17(1), 53–72. https://doi.org/10.1177/109019819001700107",
+    "url": "https://doi.org/10.1177/109019819001700107",
+    "keywords": ["HIV prevention", "sexual behavior", "risk reduction"],
+    "image": "https://www.unaids.org/sites/default/files/media_asset/UNAIDS_aidsrisk_model.png",
+    "imageReference": "UNAIDS. (n.d.). AIDS Risk Reduction Model [Image]. https://www.unaids.org/"
+  },
+  {
+    "id": 17,
+    "name": "Minority Stress Model",
+    "description": "Explores how stigma and discrimination create chronic stressors for marginalized groups.",
+    "reference": "Meyer, I. H. (2003). Prejudice, social stress, and mental health. Psychological Bulletin, 129(5), 674–697. https://doi.org/10.1037/0033-2909.129.5.674",
+    "url": "https://doi.org/10.1037/0033-2909.129.5.674",
+    "keywords": ["minority stress", "lgbtq+", "mental health"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Minority_Stress_Model.png/600px-Minority_Stress_Model.png",
+    "imageReference": "Wikipedia. (n.d.). Minority Stress Model [Image]. https://upload.wikimedia.org/"
+  },
+  {
+    "id": 18,
+    "name": "Blum’s Model of Health Determinants",
+    "description": "Highlights environment, lifestyle, heredity, and healthcare organization as key health influences.",
+    "reference": "Blum, H. L. (1974). Planning for health: Development and application of social change theory. Human Sciences Press.",
+    "url": "https://www.worldcat.org/oclc/941040",
+    "keywords": ["determinants", "environment", "heredity", "lifestyle"],
+    "image": "https://www.researchgate.net/profile/Joe-Liu/publication/321529020/figure/fig1/AS:570688231993344@1512406298110/Blums-model-of-the-determinants-of-health.png",
+    "imageReference": "Blum, H. L. (1974). Planning for health [Image]. Human Sciences Press."
+  },
+  {
+    "id": 19,
+    "name": "Whitehall Model",
+    "description": "Examines social gradient and workplace hierarchy effects on cardiovascular disease and mortality.",
+    "reference": "Marmot, M. G., Rose, G., Shipley, M., & Hamilton, P. J. (1978). Employment grade and coronary heart disease. The Lancet, 311(8055), 1003–1006. https://doi.org/10.1016/S0140-6736(78)90195-2",
+    "url": "https://doi.org/10.1016/S0140-6736(78)90195-2",
+    "keywords": ["social gradient", "work stress", "inequality"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Whitehall_Study.png",
+    "imageReference": "Wikipedia. (n.d.). Whitehall Study [Image]. https://upload.wikimedia.org/"
+  },
+  {
+    "id": 20,
+    "name": "Lalonde Report Framework",
+    "description": "Proposes health is shaped by biology, lifestyle, environment, and healthcare organization.",
+    "reference": "Lalonde, M. (1974). A new perspective on the health of Canadians. Government of Canada.",
+    "url": "https://www.canada.ca/content/dam/hc-sc/migration/hc-sc/hcs-sss/alt_formats/hpb-dgps/pdf/pubs/1974-lalonde/lalonde-eng.pdf",
+    "keywords": ["policy", "lifestyle", "environment", "Canada"],
+    "image": "https://www.canada.ca/etc/designs/canada/wet-boew/assets/splash/wmms-blk.jpg",
+    "imageReference": "Government of Canada. (1974). A new perspective on the health of Canadians [Image]."
+  },
+  {
+    "id": 21,
+    "name": "PEN-3 Model",
+    "description": "Culture-centric framework for designing and evaluating health education interventions.",
+    "reference": "Airhihenbuwa, C. O. (1995). Health and culture: Beyond the Western paradigm. SAGE.",
+    "url": "https://www.worldcat.org/oclc/31657072",
+    "keywords": ["culture", "health education", "African contexts"],
+    "image": "https://sphweb.bumc.bu.edu/otlt/MPH-Modules/images/PEN-3Model.png",
+    "imageReference": "Boston University School of Public Health. (n.d.). PEN-3 Model [Image]."
+  },
+  {
+    "id": 22,
+    "name": "RE-AIM Framework",
+    "description": "Focuses on reach, effectiveness, adoption, implementation, and maintenance of health interventions.",
+    "reference": "Glasgow, R. E., Vogt, T. M., & Boles, S. M. (1999). Evaluating the public health impact. American Journal of Public Health, 89(9), 1322–1327. https://doi.org/10.2105/AJPH.89.9.1322",
+    "url": "https://doi.org/10.2105/AJPH.89.9.1322",
+    "keywords": ["implementation science", "evaluation", "public health impact"],
+    "image": "https://re-aim.org/wp-content/uploads/2017/07/RE-AIM-Graphic.jpg",
+    "imageReference": "RE-AIM. (n.d.). RE-AIM Framework [Image]. https://re-aim.org/"
+  },
+  {
+    "id": 23,
+    "name": "Cultural Safety Model",
+    "description": "Addresses power imbalances, respect, and safety in Indigenous healthcare encounters.",
+    "reference": "Ramsden, I. (2002). Cultural safety and nursing education in Aotearoa and Te Waipounamu (Doctoral thesis, Victoria University of Wellington).",
+    "url": "http://hdl.handle.net/10063/1143",
+    "keywords": ["Indigenous health", "power dynamics", "cultural safety"],
+    "image": "https://www.nursingcouncil.org.nz/NCNZ/images/CulturalSafetyFramework.png",
+    "imageReference": "Nursing Council of New Zealand. (n.d.). Cultural Safety Model [Image]. https://www.nursingcouncil.org.nz/"
+  },
+  {
+    "id": 24,
+    "name": "Patient-Centered Care Model",
+    "description": "Emphasizes patient preferences, needs, and shared decision-making in healthcare delivery.",
+    "reference": "Institute of Medicine. (2001). Crossing the quality chasm. National Academies Press. https://doi.org/10.17226/10027",
+    "url": "https://doi.org/10.17226/10027",
+    "keywords": ["patient-centered", "shared decision-making", "quality care"],
+    "image": "https://www.ahrq.gov/sites/default/files/publications/files/pcmhgraphic.png",
+    "imageReference": "Agency for Healthcare Research and Quality. (n.d.). Patient-Centered Care Model [Image]."
+  },
+  {
+    "id": 25,
+    "name": "Integrated Behavioral Model",
+    "description": "Synthesizes theory to predict intention and behavior via attitudes, norms, and efficacy.",
+    "reference": "Montano, D. E., & Kasprzyk, D. (2008). Theory of reasoned action, theory of planned behavior, and the integrated behavioral model. In K. Glanz et al. (Eds.), Health behavior and health education (4th ed., pp. 67–96). Jossey-Bass.",
+    "url": "https://www.worldcat.org/oclc/72868260",
+    "keywords": ["behavioral intentions", "social norms", "attitudes"],
+    "image": "https://cancercontrol.cancer.gov/sites/default/files/2020-06/IBM_diagram.png",
+    "imageReference": "National Cancer Institute. (n.d.). Integrated Behavioral Model [Image]."
+  },
+  {
+    "id": 26,
+    "name": "PROGRESS-Plus Framework",
+    "description": "Considers various social stratifiers (e.g., place, race, gender) in health equity research.",
+    "reference": "O’Neill, J., Tabish, H., Welch, V., Petticrew, M., Pottie, K., Clarke, M., ... Tugwell, P. (2014). Applying an equity lens. BMC Medical Research Methodology, 14, 71. https://doi.org/10.1186/1471-2288-14-71",
+    "url": "https://doi.org/10.1186/1471-2288-14-71",
+    "keywords": ["health equity", "social determinants", "disparities"],
+    "image": "https://methods.cochrane.org/equity/sites/methods.cochrane.org.equity/files/public/uploads/PROGRESS_Plus.png",
+    "imageReference": "Cochrane Methods Equity. (n.d.). PROGRESS-Plus [Image]."
+  },
+  {
+    "id": 27,
+    "name": "COM-B Model",
+    "description": "Posits behavior depends on capability, opportunity, and motivation.",
+    "reference": "Michie, S., van Stralen, M. M., & West, R. (2011). The behaviour change wheel. Implementation Science, 6, 42. https://doi.org/10.1186/1748-5908-6-42",
+    "url": "https://doi.org/10.1186/1748-5908-6-42",
+    "keywords": ["behavior change", "capability", "motivation"],
+    "image": "https://www.behaviourchangewheel.com/wp-content/uploads/2020/09/COM-B-diagram.png",
+    "imageReference": "Michie, S., van Stralen, M. M., & West, R. (2011). COM-B Model [Image]. Implementation Science."
+  },
+  {
+    "id": 28,
+    "name": "Dahlgren-Whitehead Model",
+    "description": "Illustrates layers of influence on health, from individual lifestyle to broader policy contexts.",
+    "reference": "Dahlgren, G., & Whitehead, M. (1991). Policies and strategies to promote social equity in health. Institute for Futures Studies.",
+    "url": "http://www.iffs.se/en/publications/working-papers/policies-and-strategies-to-promote-social-equity-in-health/",
+    "keywords": ["social equity", "determinants", "policy"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Dahlgren_and_Whitehead_model.svg/600px-Dahlgren_and_Whitehead_model.svg.png",
+    "imageReference": "Wikipedia. (n.d.). Dahlgren-Whitehead Model [Image]. https://upload.wikimedia.org/"
+  },
+  {
+    "id": 29,
+    "name": "Ottawa Charter for Health Promotion",
+    "description": "Outlines prerequisites for health and five action areas for global health promotion.",
+    "reference": "World Health Organization. (1986). Ottawa Charter for Health Promotion. WHO.",
+    "url": "https://www.who.int/publications/i/item/ottawa-charter-for-health-promotion",
+    "keywords": ["health promotion", "advocacy", "enabling"],
+    "image": "https://www.who.int/images/default-source/imported/ottawa-charter-logo.tmb-1920v.png",
+    "imageReference": "World Health Organization. (n.d.). Ottawa Charter for Health Promotion [Image]."
+  },
+  {
+    "id": 30,
+    "name": "Sustainable Livelihoods Framework",
+    "description": "Analyzes how assets, context, and strategies shape livelihood outcomes and resilience.",
+    "reference": "Department for International Development. (1999). Sustainable livelihoods guidance sheets. DFID.",
+    "url": "https://www.ennonline.net/attachments/871/dfid-sustainable-livelihoods-guidance-sheet-section1.pdf",
+    "keywords": ["livelihoods", "assets", "vulnerability", "sustainability"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Sustainable_livelihoods_framework.png",
+    "imageReference": "Wikipedia. (n.d.). Sustainable Livelihoods Framework [Image]. https://upload.wikimedia.org/"
+  },
+  {
+    "id": 31,
+    "name": "SHIFT Framework (Social Marketing)",
+    "description": "Describes behavior change through social marketing strategies, focusing on target audiences.",
+    "reference": "Donovan, R., & Henley, N. (2010). Principles and practice of social marketing. Cambridge University Press.",
+    "url": "https://www.cambridge.org/9780521747686",
+    "keywords": ["social marketing", "behavior change", "health promotion"],
+    "image": "https://i.ytimg.com/vi/MQPZe60Wzgw/maxresdefault.jpg",
+    "imageReference": "Donovan, R., & Henley, N. (2010). SHIFT Framework [Image]. Cambridge University Press."
+  },
+  {
+    "id": 32,
+    "name": "Social Network Theory",
+    "description": "Focuses on how social structures and relationships influence behavior and information flow.",
+    "reference": "Granovetter, M. S. (1973). The strength of weak ties. American Journal of Sociology, 78(6), 1360–1380. https://doi.org/10.1086/225469",
+    "url": "https://doi.org/10.1086/225469",
+    "keywords": ["networks", "social ties", "information diffusion"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Social_Network_Analysis_Visualization.png/600px-Social_Network_Analysis_Visualization.png",
+    "imageReference": "Wikipedia. (n.d.). Social Network Theory [Image]. https://upload.wikimedia.org/"
+  },
+  {
+    "id": 33,
+    "name": "Health Literacy Framework",
+    "description": "Examines capacities to obtain, process, and understand health information for decision-making.",
+    "reference": "Sorensen, K., Van den Broucke, S., Fullam, J., Doyle, G., Pelikan, J., Slonska, Z., & Brand, H. (2012). Health literacy and public health. BMC Public Health, 12, 80. https://doi.org/10.1186/1471-2458-12-80",
+    "url": "https://doi.org/10.1186/1471-2458-12-80",
+    "keywords": ["health literacy", "communication", "education"],
+    "image": "https://cdn.who.int/media/images/default-source/health-literacy/health-literacy-framework.png",
+    "imageReference": "World Health Organization. (n.d.). Health Literacy Framework [Image]."
+  },
+  {
+    "id": 34,
+    "name": "Family Stress Model",
+    "description": "Connects economic and other stressors to parenting, child well-being, and family outcomes.",
+    "reference": "Conger, R. D., & Elder, G. H. (1994). Families in troubled times. Aldine de Gruyter.",
+    "url": "https://www.worldcat.org/oclc/29664724",
+    "keywords": ["family stress", "parenting", "economic pressure"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/FamilyStressModel_diagram.png/600px-FamilyStressModel_diagram.png",
+    "imageReference": "Wikipedia. (n.d.). Family Stress Model [Image]. https://upload.wikimedia.org/"
+  },
+  {
+    "id": 35,
+    "name": "Chronic Care Model",
+    "description": "Improves chronic illness outcomes via community resources, self-management support, and system redesign.",
+    "reference": "Wagner, E. H. (1998). Chronic disease management. The Milbank Quarterly, 74(4), 511–544. https://doi.org/10.2307/3355209",
+    "url": "https://doi.org/10.2307/3355209",
+    "keywords": ["chronic illness", "care coordination", "self-management"],
+    "image": "https://www.improvingchroniccare.org/downloads/ccm_model.gif",
+    "imageReference": "Improving Chronic Illness Care. (n.d.). Chronic Care Model [Image]."
+  },
+  {
+    "id": 36,
+    "name": "Mental Health Recovery Model",
+    "description": "Centers hope, empowerment, and self-determination in mental health treatment and recovery.",
+    "reference": "Anthony, W. A. (1993). Recovery from mental illness. Innovations & Research, 2(3), 17–24.",
+    "url": "https://psycnet.apa.org/record/1993-31359-001",
+    "keywords": ["recovery", "empowerment", "hope"],
+    "image": "https://www.samhsa.gov/sites/default/files/recovery-model-image.png",
+    "imageReference": "Substance Abuse and Mental Health Services Administration. (n.d.). Recovery Model [Image]."
+  },
+  {
+    "id": 37,
+    "name": "Community Readiness Model",
+    "description": "Assesses a community’s stage of readiness for prevention or intervention programs.",
+    "reference": "Edwards, R. W., Jumper-Thurman, P., Plested, B. A., Oetting, E. R., & Swanson, L. (2000). Community readiness: Research to practice. Journal of Community Psychology, 28(3), 291–307. https://doi.org/10.1002/(SICI)1520-6629(200005)28:3<291::AID-JCOP5>3.0.CO;2-9",
+    "url": "https://doi.org/10.1002/(SICI)1520-6629(200005)28:3<291::AID-JCOP5>3.0.CO;2-9",
+    "keywords": ["community engagement", "readiness", "intervention"],
+    "image": "https://triethniccenter.colostate.edu/wp-content/uploads/sites/24/2018/04/CRM_Stages.jpg",
+    "imageReference": "Tri-Ethnic Center. (n.d.). Community Readiness Model [Image]. https://triethniccenter.colostate.edu/"
+  },
+  {
+    "id": 38,
+    "name": "Economics of Prevention Framework",
+    "description": "Considers cost-effectiveness and broader economic impacts of preventive health interventions.",
+    "reference": "Centers for Disease Control and Prevention. (2011). An ounce of prevention. CDC. https://stacks.cdc.gov/view/cdc/22037",
+    "url": "https://stacks.cdc.gov/view/cdc/22037",
+    "keywords": ["prevention", "cost-effectiveness", "economic impact"],
+    "image": "https://www.cdc.gov/prevention/images/prevention_economics_diagram.png",
+    "imageReference": "Centers for Disease Control and Prevention. (2011). Economics of Prevention [Image]."
+  },
+  {
+    "id": 39,
+    "name": "Health Equity Framework",
+    "description": "Focuses on conditions that ensure the highest level of health for all people.",
+    "reference": "Braveman, P., Kumanyika, S., Fielding, J., LaVeist, T., Borrell, L. N., Manderscheid, R., & Troutman, A. (2011). Health disparities and health equity. American Journal of Public Health, 101(S1), S149–S155. https://doi.org/10.2105/AJPH.2010.300062",
+    "url": "https://doi.org/10.2105/AJPH.2010.300062",
+    "keywords": ["health disparities", "equity", "social justice"],
+    "image": "https://www.apha.org/-/media/Files/PDF/topics/equity/HealthEquityFramework_APHA.png",
+    "imageReference": "American Public Health Association. (n.d.). Health Equity Framework [Image]."
+  },
+  {
+    "id": 40,
+    "name": "Theoretical Domains Framework (TDF)",
+    "description": "Integrates psychological constructs to identify barriers and enablers of implementation behaviors.",
+    "reference": "Michie, S., Johnston, M., Abraham, C., Lawton, R., Parker, D., & Walker, A. (2005). Making psychological theory useful. Quality and Safety in Health Care, 14(1), 26–33. https://doi.org/10.1136/qshc.2004.011155",
+    "url": "https://doi.org/10.1136/qshc.2004.011155",
+    "keywords": ["implementation", "behavior change", "psychological constructs"],
+    "image": "https://implementation-effectiveness.com/wp-content/uploads/2020/07/TDF-domains.jpg",
+    "imageReference": "Implementation Effectiveness. (n.d.). Theoretical Domains Framework [Image]."
+  },
+  {
+    "id": 41,
+    "name": "Interpersonal Theory of Suicide",
+    "description": "Asserts that perceived burdensomeness and thwarted belongingness contribute to suicidal desire.",
+    "reference": "Joiner, T. E. (2005). Why people die by suicide. Harvard University Press.",
+    "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674019010",
+    "keywords": ["suicide", "belongingness", "mental health"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Interpersonal_theory_of_suicide_model.png/600px-Interpersonal_theory_of_suicide_model.png",
+    "imageReference": "Wikipedia. (n.d.). Interpersonal Theory of Suicide [Image]. https://upload.wikimedia.org/"
+  },
+  {
+    "id": 42,
+    "name": "Kaupapa Māori Research Framework",
+    "description": "Centers Māori values, language, and cultural practices in research methodologies and outcomes.",
+    "reference": "Smith, L. T. (1999). Decolonizing methodologies: Research and Indigenous peoples. Zed Books.",
+    "url": "https://www.worldcat.org/oclc/40673015",
+    "keywords": ["Indigenous research", "Māori", "decolonizing methods"],
+    "image": "https://ako.ac.nz/assets/Knowledge-centre/NPF-10-002-The-Whakapakari-Framework/Kaupapa_Maori_diagram.png",
+    "imageReference": "Ako Aotearoa. (n.d.). Kaupapa Māori diagram [Image]. https://ako.ac.nz/"
+  },
+  {
+    "id": 43,
+    "name": "Two-Eyed Seeing Framework",
+    "description": "Combines Indigenous ways of knowing with Western scientific perspectives for holistic understanding.",
+    "reference": "Bartlett, C., Marshall, M., & Marshall, A. (2012). Two-eyed seeing. Canadian Journal of Nursing Research, 44(2), 14–39.",
+    "url": "https://cjnr.archive.mcgill.ca/article/view/2345/2340",
+    "keywords": ["Indigenous knowledge", "Western science", "holistic approach"],
+    "image": "https://www.integrativescience.ca/Uploads/Articles/Two-Eyed_Seeing.jpg",
+    "imageReference": "Integrative Science. (n.d.). Two-Eyed Seeing [Image]. https://www.integrativescience.ca/"
+  },
+  {
+    "id": 44,
+    "name": "Social Ecological Model of Resilience (Ungar)",
+    "description": "Posits resilience emerges from complex interactions among individuals and their social ecologies.",
+    "reference": "Ungar, M. (2011). The social ecology of resilience. Springer. https://doi.org/10.1007/978-1-4614-0586-3",
+    "url": "https://doi.org/10.1007/978-1-4614-0586-3",
+    "keywords": ["resilience", "ecological", "youth", "protective factors"],
+    "image": "https://www.researchgate.net/profile/Michael-Ungar/publication/260939262/figure/fig1/AS:267532639166479@1440796477084/Figure-1-The-Social-Ecological-Model-of-Resilience-Ungar-2011.png",
+    "imageReference": "Ungar, M. (2011). The social ecology of resilience [Image]. Springer."
+  },
+  {
+    "id": 45,
+    "name": "Person-in-Environment (PIE) Framework",
+    "description": "Views individuals within their environmental context, crucial in social work assessment.",
+    "reference": "Karls, J. M., & Wandrei, K. E. (1994). Person-in-environment system. NASW Press.",
+    "url": "https://www.worldcat.org/oclc/28926717",
+    "keywords": ["holistic approach", "social work", "environmental context"],
+    "image": "https://cdn.ymaws.com/www.naswma.org/resource/resmgr/imported/person_in_environment_model.jpg",
+    "imageReference": "National Association of Social Workers. (n.d.). Person-in-Environment [Image]."
+  },
+  {
+    "id": 46,
+    "name": "Behavioral Economics Framework",
+    "description": "Uses psychology and economics to explain irrational health decisions and guide interventions.",
+    "reference": "Kahneman, D. (2011). Thinking, fast and slow. Farrar, Straus and Giroux.",
+    "url": "https://www.worldcat.org/oclc/706020228",
+    "keywords": ["choice architecture", "nudges", "decision-making"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Behavioural_economics_diagram.png/600px-Behavioural_economics_diagram.png",
+    "imageReference": "Wikipedia. (n.d.). Behavioral Economics [Image]. https://upload.wikimedia.org/"
+  },
+  {
+    "id": 47,
+    "name": "Community Organization Theory",
+    "description": "Involves community-led efforts for identifying problems, mobilizing resources, and effecting change.",
+    "reference": "Rothman, J. (1968). Three models of community organization practice. Columbia University Press.",
+    "url": "https://www.worldcat.org/oclc/199855",
+    "keywords": ["community organizing", "capacity building", "grassroots"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Community_organisation_diagram.png/600px-Community_organisation_diagram.png",
+    "imageReference": "Wikipedia. (n.d.). Community Organization [Image]."
+  },
+  {
+    "id": 48,
+    "name": "Mobilizing for Action through Planning and Partnerships (MAPP)",
+    "description": "Community-driven strategic planning process for improving community health systems.",
+    "reference": "National Association of County & City Health Officials. (2013). Mobilizing for action through planning and partnerships (MAPP). NACCHO.",
+    "url": "https://www.naccho.org/programs/public-health-infrastructure/performance-improvement/community-health-assessment/mapp",
+    "keywords": ["community health", "planning", "partnerships"],
+    "image": "https://www.naccho.org/uploads/graphics/MAPP-Framework.jpg",
+    "imageReference": "National Association of County & City Health Officials. (n.d.). MAPP Framework [Image]."
+  },
+  {
+    "id": 49,
+    "name": "Logic Model",
+    "description": "Depicts inputs, activities, outputs, and outcomes to plan and evaluate programs.",
+    "reference": "W. K. Kellogg Foundation. (2004). Logic model development guide. WKKF.",
+    "url": "https://www.wkkf.org/resource-directory/resources/2004/01/logic-model-development-guide",
+    "keywords": ["planning", "evaluation", "program theory"],
+    "image": "https://www.cdc.gov/evaluation/images/logic-model.png",
+    "imageReference": "Centers for Disease Control and Prevention. (n.d.). Logic Model [Image]."
+  },
+  {
+    "id": 50,
+    "name": "Haddon Matrix",
+    "description": "Framework for injury prevention, examining pre-event, event, and post-event phases.",
+    "reference": "Haddon, W. (1972). A logical framework for categorizing highway safety phenomena. Human Factors, 14(4), 295–304. https://doi.org/10.1177/001872087201400402",
+    "url": "https://doi.org/10.1177/001872087201400402",
+    "keywords": ["injury prevention", "events", "countermeasures"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Haddon_matrix_example.png/600px-Haddon_matrix_example.png",
+    "imageReference": "Wikipedia. (n.d.). Haddon Matrix [Image]. https://upload.wikimedia.org/"
+  },
+  {
+    "id": 51,
+    "name": "Population Health Promotion Model (PHPM)",
+    "description": "Combines social determinants and Ottawa Charter strategies for population-based health promotion.",
+    "reference": "Hamilton, N., & Bhatti, T. (1996). Population health promotion: An integrated model of population health and health promotion. Health Promotion Development Division, Health Canada.",
+    "url": "https://www.phac-aspc.gc.ca/ph-sp/php-psp/index-eng.php",
+    "keywords": ["population health", "promotion", "social determinants"],
+    "image": "https://www.health.gov.bc.ca/library/publications/year/2007/population-health-promotion-model.png",
+    "imageReference": "Health Canada. (n.d.). Population Health Promotion Model [Image]."
+  },
+  {
+    "id": 52,
+    "name": "Stages of Racial Identity Development (Cross)",
+    "description": "Outlines stages in developing a positive racial identity among African Americans.",
+    "reference": "Cross, W. E. (1971). Negro-to-Black conversion experiences. Black World, 20(9), 13–27.",
+    "url": "https://www.worldcat.org/oclc/5068720",
+    "keywords": ["racial identity", "development", "African American"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Cross_Nigrescence_Model.png/600px-Cross_Nigrescence_Model.png",
+    "imageReference": "Wikipedia. (n.d.). Cross’s Nigrescence Model [Image]. https://upload.wikimedia.org/"
+  },
+  {
+    "id": 53,
+    "name": "Stages of Ethnic Identity Development (Phinney)",
+    "description": "Describes how adolescents move through unexamined, exploration, and achieved ethnic identity.",
+    "reference": "Phinney, J. S. (1990). Ethnic identity in adolescents and adults. Psychological Bulletin, 108(3), 499–514. https://doi.org/10.1037/0033-2909.108.3.499",
+    "url": "https://doi.org/10.1037/0033-2909.108.3.499",
+    "keywords": ["ethnic identity", "adolescence", "exploration"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Phinney_1990_Ethnic_Identity_Development_Model.png/500px-Phinney_1990_Ethnic_Identity_Development_Model.png",
+    "imageReference": "Wikipedia. (n.d.). Phinney’s Ethnic Identity Model [Image]."
+  },
+  {
+    "id": 54,
+    "name": "PRECEDE-PROCEED Model (Indigenous Adaptation)",
+    "description": "Adaptation of PRECEDE-PROCEED addressing cultural, historical, and societal contexts for Indigenous communities.",
+    "reference": "Simmons, D., Voyle, J., & Swinburn, B. (1999). Community-based approaches for the primary prevention. Diabetic Medicine, 16(8), 613–617. https://doi.org/10.1046/j.1464-5491.1999.00106.x",
+    "url": "https://doi.org/10.1046/j.1464-5491.1999.00106.x",
+    "keywords": ["Indigenous health", "community-based", "program planning"],
+    "image": "https://www.ruralhealthinfo.org/assets/1203-5271/precede-proceed-model.png",
+    "imageReference": "Rural Health Information Hub. (n.d.). PRECEDE-PROCEED Model [Image]."
+  },
+  {
+    "id": 55,
+    "name": "Intersectional Trauma Framework",
+    "description": "Examines how intersecting identities compound trauma experiences and coping mechanisms.",
+    "reference": "Sangalang, C. C., & Vang, C. (2017). Intersections of trauma and resilience. Social Science & Medicine, 184, 178–187. https://doi.org/10.1016/j.socscimed.2017.05.045",
+    "url": "https://doi.org/10.1016/j.socscimed.2017.05.045",
+    "keywords": ["trauma", "intersectionality", "coping"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Intersectional_trauma_framework.png/600px-Intersectional_trauma_framework.png",
+    "imageReference": "Wikipedia. (n.d.). Intersectional Trauma Framework [Image]."
+  },
+  {
+    "id": 56,
+    "name": "Social Action Model",
+    "description": "Promotes collective action, empowerment, and policy change for oppressed communities.",
+    "reference": "Lee, J. A. B. (2001). The empowerment approach to social work practice. Columbia University Press.",
+    "url": "https://www.worldcat.org/oclc/44728292",
+    "keywords": ["empowerment", "collective action", "policy change"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Social_action_model.png/600px-Social_action_model.png",
+    "imageReference": "Wikipedia. (n.d.). Social Action Model [Image]."
+  },
+  {
+    "id": 57,
+    "name": "Critical Race Theory (CRT)",
+    "description": "Analyzes how race, law, and power intersect, highlighting systemic inequities in society.",
+    "reference": "Delgado, R., & Stefancic, J. (2001). Critical race theory: An introduction. NYU Press.",
+    "url": "https://www.worldcat.org/oclc/46623574",
+    "keywords": ["race", "power", "structural inequities"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Critical_Race_Theory.png/600px-Critical_Race_Theory.png",
+    "imageReference": "Wikipedia. (n.d.). Critical Race Theory [Image]."
+  },
+  {
+    "id": 58,
+    "name": "Transformative Paradigm (Mertens)",
+    "description": "Places social justice and human rights at the center of research methodologies and evaluation.",
+    "reference": "Mertens, D. M. (2009). Transformative research and evaluation. Guilford Press.",
+    "url": "https://www.worldcat.org/oclc/232304744",
+    "keywords": ["social justice", "evaluation", "transformative"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Transformative_Paradigm_Diagram.png/600px-Transformative_Paradigm_Diagram.png",
+    "imageReference": "Wikipedia. (n.d.). Transformative Paradigm [Image]."
+  },
+  {
+    "id": 59,
+    "name": "Empowerment Evaluation",
+    "description": "Utilizes evaluation as a tool for self-determination, community capacity-building, and improvement.",
+    "reference": "Fetterman, D. M. (1994). Empowerment evaluation. Evaluation Practice, 15(1), 1–15.",
+    "url": "https://doi.org/10.1016/0886-1633(94)90020-5",
+    "keywords": ["evaluation", "empowerment", "capacity-building"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Empowerment_evaluation_cycle.png/600px-Empowerment_evaluation_cycle.png",
+    "imageReference": "Wikipedia. (n.d.). Empowerment Evaluation [Image]."
+  },
+  {
+    "id": 60,
+    "name": "Community Capitals Framework",
+    "description": "Analyzes community assets across seven capitals (natural, cultural, human, social, political, financial, built).",
+    "reference": "Flora, C. B., Flora, J. L., & Fey, S. (2004). Rural communities: Legacy and change (2nd ed.). Westview Press.",
+    "url": "https://www.worldcat.org/oclc/51614221",
+    "keywords": ["capitals", "community development", "assets"],
+    "image": "https://www.ncrcrd.iastate.edu/wp-content/uploads/2021/04/CommunityCapitalsFramework.jpg",
+    "imageReference": "North Central Regional Center for Rural Development. (n.d.). Community Capitals Framework [Image]."
+  },
+  {
+    "id": 61,
+    "name": "Stages of Change Model in Substance Abuse",
+    "description": "Adaptation of TTM focusing on substance use behaviors and readiness to change.",
+    "reference": "DiClemente, C. C., & Prochaska, J. O. (1998). Toward a comprehensive model of change. In W. R. Miller & N. Heather (Eds.), Treating addictive behaviors (2nd ed.). Plenum Press.",
+    "url": "https://www.worldcat.org/oclc/39013150",
+    "keywords": ["substance abuse", "TTM", "readiness"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stages_of_change.png/600px-Stages_of_change.png",
+    "imageReference": "Wikipedia. (n.d.). Transtheoretical Model [Image]."
+  },
+  {
+    "id": 62,
+    "name": "Asset-Based Community Development (ABCD)",
+    "description": "Focuses on community strengths and capacities rather than deficiencies for sustainable development.",
+    "reference": "Kretzmann, J. P., & McKnight, J. L. (1993). Building communities from the inside out. ACTA Publications.",
+    "url": "https://www.worldcat.org/oclc/32073620",
+    "keywords": ["community assets", "empowerment", "sustainable development"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Asset_Based_Community_Development.png/600px-Asset_Based_Community_Development.png",
+    "imageReference": "Wikipedia. (n.d.). Asset-Based Community Development [Image]."
+  },
+  {
+    "id": 63,
+    "name": "Participatory Action Research (PAR) Framework",
+    "description": "Involves participants as co-researchers to enact social change through cyclical reflection and action.",
+    "reference": "Freire, P. (1970). Pedagogy of the oppressed. Bloomsbury.",
+    "url": "https://www.worldcat.org/oclc/1021875679",
+    "keywords": ["participatory", "action research", "social change"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Participatory_Action_Research_Cycle.png/600px-Participatory_Action_Research_Cycle.png",
+    "imageReference": "Wikipedia. (n.d.). Participatory Action Research [Image]."
+  },
+  {
+    "id": 64,
+    "name": "Cultural Humility Model",
+    "description": "Calls for lifelong learning, critical self-reflection, and institutional accountability in cross-cultural work.",
+    "reference": "Tervalon, M., & Murray-García, J. (1998). Cultural humility. Journal of Health Care for the Poor and Underserved, 9(2), 117–125. https://doi.org/10.1353/hpu.2010.0233",
+    "url": "https://doi.org/10.1353/hpu.2010.0233",
+    "keywords": ["cultural humility", "self-reflection", "power imbalances"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cultural_Humility_Concept_Map.png/600px-Cultural_Humility_Concept_Map.png",
+    "imageReference": "Wikipedia. (n.d.). Cultural Humility [Image]."
+  },
+  {
+    "id": 65,
+    "name": "Social Capital Theory",
+    "description": "Highlights the value of social networks, norms, and trust in achieving community goals.",
+    "reference": "Putnam, R. D. (1993). Making democracy work: Civic traditions in modern Italy. Princeton University Press.",
+    "url": "https://www.worldcat.org/oclc/26811448",
+    "keywords": ["social networks", "trust", "civic engagement"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SocialCapitalDiagram.png/600px-SocialCapitalDiagram.png",
+    "imageReference": "Wikipedia. (n.d.). Social Capital Theory [Image]."
+  },
+  {
+    "id": 66,
+    "name": "Harm Reduction Framework",
+    "description": "Prioritizes reducing negative consequences of high-risk behaviors rather than outright cessation.",
+    "reference": "Marlatt, G. A. (1996). Harm reduction. Addictive Behaviors, 21(6), 779–788. https://doi.org/10.1016/0306-4603(96)00042-1",
+    "url": "https://doi.org/10.1016/0306-4603(96)00042-1",
+    "keywords": ["substance use", "risk reduction", "public health"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Harm_reduction.png/600px-Harm_reduction.png",
+    "imageReference": "Wikipedia. (n.d.). Harm Reduction [Image]."
+  },
+  {
+    "id": 67,
+    "name": "Normalization Process Theory (NPT)",
+    "description": "Explains how new practices become routinely embedded within social contexts or organizations.",
+    "reference": "May, C., & Finch, T. (2009). Implementation, embedding and integration. Sociology, 43(3), 535–554. https://doi.org/10.1177/0038038509103208",
+    "url": "https://doi.org/10.1177/0038038509103208",
+    "keywords": ["implementation", "routine", "organizational change"],
+    "image": "https://normalizationprocess.org/wp-content/uploads/2020/03/NPT-model-diagram.png",
+    "imageReference": "Normalization Process Theory. (n.d.). NPT Model [Image]. https://normalizationprocess.org/"
+  },
+  {
+    "id": 68,
+    "name": "Cultural Resilience Framework",
+    "description": "Highlights protective cultural factors that bolster resilience in marginalized communities.",
+    "reference": "Hefferon, K., & Boniwell, I. (2011). Positive psychology. McGraw-Hill Education.",
+    "url": "https://www.worldcat.org/oclc/843115271",
+    "keywords": ["resilience", "cultural identity", "protective factors"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Cultural_Resilience_Framework_Diagram.png/600px-Cultural_Resilience_Framework_Diagram.png",
+    "imageReference": "Wikipedia. (n.d.). Cultural Resilience Framework [Image]."
+  },
+  {
+    "id": 69,
+    "name": "Biopsychosocial Model",
+    "description": "Integrates biological, psychological, and social dimensions in understanding health and illness.",
+    "reference": "Engel, G. L. (1977). The need for a new medical model. Science, 196(4286), 129–136. https://doi.org/10.1126/science.847460",
+    "url": "https://doi.org/10.1126/science.847460",
+    "keywords": ["holistic", "health", "illness", "three domains"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Biopsychosocial_Model.jpg/600px-Biopsychosocial_Model.jpg",
+    "imageReference": "Wikipedia. (n.d.). Biopsychosocial Model [Image]."
+  },
+  {
+    "id": 70,
+    "name": "Adaptive Leadership Framework",
+    "description": "Encourages leaders to facilitate adaptive change in complex systems, especially in healthcare.",
+    "reference": "Heifetz, R. A., Grashow, A., & Linsky, M. (2009). The practice of adaptive leadership. Harvard Business Press.",
+    "url": "https://www.worldcat.org/oclc/311775334",
+    "keywords": ["leadership", "adaptation", "change management"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Adaptive_Leadership_Framework_Diagram.png/600px-Adaptive_Leadership_Framework_Diagram.png",
+    "imageReference": "Wikipedia. (n.d.). Adaptive Leadership Framework [Image]."
+  },
+  {
+    "id": 71,
+    "name": "Ecological Momentary Assessment (EMA) Framework",
+    "description": "Collects real-time data on behaviors and contexts, reducing recall bias in health research.",
+    "reference": "Shiffman, S., Stone, A. A., & Hufford, M. R. (2008). Ecological momentary assessment. Annual Review of Clinical Psychology, 4, 1–32. https://doi.org/10.1146/annurev.clinpsy.3.022806.091415",
+    "url": "https://doi.org/10.1146/annurev.clinpsy.3.022806.091415",
+    "keywords": ["real-time data", "behavioral assessment", "contextual factors"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ecological_Momentary_Assessment.png/600px-Ecological_Momentary_Assessment.png",
+    "imageReference": "Wikipedia. (n.d.). Ecological Momentary Assessment [Image]."
+  },
+  {
+    "id": 72,
+    "name": "Ecosocial Theory",
+    "description": "Links social and biological processes, emphasizing how societal structures become embodied.",
+    "reference": "Krieger, N. (1994). Epidemiology and the web of causation. Social Science & Medicine, 39(7), 887–903. https://doi.org/10.1016/0277-9536(94)90202-X",
+    "url": "https://doi.org/10.1016/0277-9536(94)90202-X",
+    "keywords": ["ecosocial", "embodiment", "inequities"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ecosocial_Theory_diagram.png/600px-Ecosocial_Theory_diagram.png",
+    "imageReference": "Wikipedia. (n.d.). Ecosocial Theory [Image]."
+  },
+  {
+    "id": 73,
+    "name": "Collective Impact Framework",
+    "description": "Brings cross-sector organizations together to solve complex social problems through structured collaboration.",
+    "reference": "Kania, J., & Kramer, M. (2011). Collective impact. Stanford Social Innovation Review, 9(1), 36–41.",
+    "url": "https://ssir.org/articles/entry/collective_impact",
+    "keywords": ["collaboration", "common agenda", "collective impact"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Collective_Impact_Framework.png/600px-Collective_Impact_Framework.png",
+    "imageReference": "Wikipedia. (n.d.). Collective Impact [Image]."
+  },
+  {
+    "id": 74,
+    "name": "Patient Activation Measure (PAM) Framework",
+    "description": "Assesses individuals’ knowledge, skill, and confidence in managing their own health.",
+    "reference": "Hibbard, J. H., Stockard, J., Mahoney, E. R., & Tusler, M. (2004). Development of the Patient Activation Measure. Health Services Research, 39(4p1), 1005–1026. https://doi.org/10.1111/j.1475-6773.2004.00269.x",
+    "url": "https://doi.org/10.1111/j.1475-6773.2004.00269.x",
+    "keywords": ["patient engagement", "self-management", "health literacy"],
+    "image": "https://www.insigniahealth.com/images/pam-model.png",
+    "imageReference": "Insignia Health. (n.d.). Patient Activation Measure [Image]."
+  },
+  {
+    "id": 75,
+    "name": "Circle of Courage",
+    "description": "Youth development model grounded in Indigenous philosophy focusing on belonging, mastery, independence, generosity.",
+    "reference": "Brendtro, L. K., Brokenleg, M., & Van Bockern, S. (1990). Reclaiming youth at risk. National Education Service.",
+    "url": "https://www.worldcat.org/oclc/21559767",
+    "keywords": ["Indigenous youth", "belonging", "resilience"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Circle_of_Courage.png/600px-Circle_of_Courage.png",
+    "imageReference": "Wikipedia. (n.d.). Circle of Courage [Image]."
+  },
+  {
+    "id": 76,
+    "name": "Community Resiliency Model (CRM)",
+    "description": "Teaches wellness skills for stress management and trauma recovery within communities.",
+    "reference": "Miller-Karas, E. (2015). Building resilience to trauma. Routledge. https://doi.org/10.4324/9781315747193",
+    "url": "https://doi.org/10.4324/9781315747193",
+    "keywords": ["resiliency", "trauma", "wellness skills"],
+    "image": "https://www.traumaresourceinstitute.com/sites/default/files/CRM_model.png",
+    "imageReference": "Trauma Resource Institute. (n.d.). Community Resiliency Model [Image]."
+  },
+  {
+    "id": 77,
+    "name": "Resiliency Wheel",
+    "description": "Outlines factors like bonding, boundaries, life skills, and meaningful participation in resilience-building.",
+    "reference": "Henderson, N., & Milstein, M. (2003). Resiliency in schools. Corwin Press.",
+    "url": "https://www.worldcat.org/oclc/272374047",
+    "keywords": ["resilience", "protective factors", "youth development"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Resiliency_Wheel_diagram.png/600px-Resiliency_Wheel_diagram.png",
+    "imageReference": "Wikipedia. (n.d.). Resiliency Wheel [Image]."
+  },
+  {
+    "id": 78,
+    "name": "Plan-Do-Study-Act (PDSA) Cycle",
+    "description": "Iterative method for quality improvement in health services and social work practice.",
+    "reference": "Deming, W. E. (1986). Out of the crisis. MIT Press.",
+    "url": "https://www.worldcat.org/oclc/12515429",
+    "keywords": ["quality improvement", "continuous improvement", "iterative"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/PDCA_Cycle.png/600px-PDCA_Cycle.png",
+    "imageReference": "Wikipedia. (n.d.). PDCA Cycle [Image]."
+  },
+  {
+    "id": 79,
+    "name": "Capability Approach",
+    "description": "Focuses on individuals’ capabilities and opportunities to achieve well-being and freedom.",
+    "reference": "Sen, A. (1999). Development as freedom. Oxford University Press.",
+    "url": "https://www.worldcat.org/oclc/40776718",
+    "keywords": ["capabilities", "well-being", "freedom", "inequality"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Capability_Approach_diagram.png/600px-Capability_Approach_diagram.png",
+    "imageReference": "Wikipedia. (n.d.). Capability Approach [Image]."
+  },
+  {
+    "id": 80,
+    "name": "Phenomenological Variant of Ecological Systems Theory (PVEST)",
+    "description": "Examines identity, stress-coping, and outcomes in youth development within cultural contexts.",
+    "reference": "Spencer, M. B. (1995). Old issues and new theorizing. In R. L. Taylor (Ed.), Black youth (pp. 37–70). Praeger.",
+    "url": "https://www.worldcat.org/oclc/29704105",
+    "keywords": ["youth development", "ecological", "culture", "stress"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/PVEST_diagram.png/600px-PVEST_diagram.png",
+    "imageReference": "Wikipedia. (n.d.). PVEST Model [Image]."
+  },
+  {
+    "id": 81,
+    "name": "Intersectional Ecological Model of HIV Risk",
+    "description": "Considers macro, community, relationship, and individual factors intersecting with identity markers.",
+    "reference": "Logie, C. H., & Gadalla, T. M. (2009). Meta-analysis of health and demographic correlates of stigma. AIDS Care, 21(6), 742–753. https://doi.org/10.1080/09540120802511877",
+    "url": "https://doi.org/10.1080/09540120802511877",
+    "keywords": ["HIV risk", "intersectionality", "ecological model"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Intersectional_Ecological_Model_HIV_Risk.png/600px-Intersectional_Ecological_Model_HIV_Risk.png",
+    "imageReference": "Wikipedia. (n.d.). Intersectional Ecological Model of HIV Risk [Image]."
+  },
+  {
+    "id": 82,
+    "name": "The Health Impact Pyramid",
+    "description": "Ranks public health interventions by their population impact and individual effort needed.",
+    "reference": "Frieden, T. R. (2010). A framework for public health action. American Journal of Public Health, 100(4), 590–595. https://doi.org/10.2105/AJPH.2009.185652",
+    "url": "https://doi.org/10.2105/AJPH.2009.185652",
+    "keywords": ["public health", "population impact", "interventions"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Health_Impact_Pyramid.png/600px-Health_Impact_Pyramid.png",
+    "imageReference": "Wikipedia. (n.d.). Health Impact Pyramid [Image]."
+  },
+  {
+    "id": 83,
+    "name": "Population Attributable Risk (PAR) Framework",
+    "description": "Estimates the proportion of disease that could be prevented by eliminating a specific risk.",
+    "reference": "Rockhill, B., Newman, B., & Weinberg, C. (1998). Use and misuse of population attributable fractions. American Journal of Public Health, 88(1), 15–19. https://doi.org/10.2105/AJPH.88.1.15",
+    "url": "https://doi.org/10.2105/AJPH.88.1.15",
+    "keywords": ["epidemiology", "risk factors", "prevention impact"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/PAR_Formula.png/300px-PAR_Formula.png",
+    "imageReference": "Wikipedia. (n.d.). Population Attributable Risk [Image]."
+  },
+  {
+    "id": 84,
+    "name": "Diffusion of Responsibility Model",
+    "description": "Proposes that people are less likely to take action when others are present.",
+    "reference": "Darley, J. M., & Latané, B. (1968). Bystander intervention in emergencies. Journal of Personality and Social Psychology, 8(4), 377–383. https://doi.org/10.1037/h0025589",
+    "url": "https://doi.org/10.1037/h0025589",
+    "keywords": ["bystander effect", "social psychology", "responsibility"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Diffusion_of_Responsibility_Chart.png/600px-Diffusion_of_Responsibility_Chart.png",
+    "imageReference": "Wikipedia. (n.d.). Diffusion of Responsibility [Image]."
+  },
+  {
+    "id": 85,
+    "name": "Socio-Cultural Model of Disability",
+    "description": "Views disability as arising from social, cultural, and physical barriers rather than impairment.",
+    "reference": "Shakespeare, T. (2006). Disability rights and wrongs. Routledge. https://doi.org/10.4324/9780203640098",
+    "url": "https://doi.org/10.4324/9780203640098",
+    "keywords": ["disability", "social model", "barriers"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sociocultural_Model_of_Disability.png/600px-Sociocultural_Model_of_Disability.png",
+    "imageReference": "Wikipedia. (n.d.). Social Model of Disability [Image]."
+  },
+  {
+    "id": 86,
+    "name": "Spiral of Silence Theory",
+    "description": "Examines how people remain silent when they feel their views are in the minority.",
+    "reference": "Noelle-Neumann, E. (1974). The spiral of silence. Journal of Communication, 24(2), 43–51. https://doi.org/10.1111/j.1460-2466.1974.tb00367.x",
+    "url": "https://doi.org/10.1111/j.1460-2466.1974.tb00367.x",
+    "keywords": ["public opinion", "conformity", "minority views"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Spiral_of_Silence.png/600px-Spiral_of_Silence.png",
+    "imageReference": "Wikipedia. (n.d.). Spiral of Silence [Image]."
+  },
+  {
+    "id": 87,
+    "name": "Behavioral Change Wheel",
+    "description": "Synthesizes multiple behavior change theories and identifies intervention functions and policy categories.",
+    "reference": "Michie, S., Atkins, L., & West, R. (2014). The behaviour change wheel. Silverback Publishing.",
+    "url": "https://www.behaviourchangewheel.com/",
+    "keywords": ["behavior change", "intervention design", "policy"],
+    "image": "https://www.behaviourchangewheel.com/wp-content/uploads/2020/09/BCW-graphic.png",
+    "imageReference": "Michie, S., Atkins, L., & West, R. (2014). The behaviour change wheel [Image]."
+  },
+  {
+    "id": 88,
+    "name": "Extended Parallel Process Model (EPPM)",
+    "description": "Explains fear appeal messages and how perceived threat and efficacy guide responses.",
+    "reference": "Witte, K. (1992). Putting the fear back into fear appeals. Communication Monographs, 59(4), 329–349. https://doi.org/10.1080/03637759209376276",
+    "url": "https://doi.org/10.1080/03637759209376276",
+    "keywords": ["fear appeals", "efficacy", "perceived threat"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/EPPM_Diagram.png/600px-EPPM_Diagram.png",
+    "imageReference": "Wikipedia. (n.d.). Extended Parallel Process Model [Image]."
+  },
+  {
+    "id": 89,
+    "name": "Grief Work Model",
+    "description": "Conceptualizes bereavement as an active process of confronting and adjusting to loss.",
+    "reference": "Worden, J. W. (2009). Grief counseling and grief therapy (4th ed.). Springer.",
+    "url": "https://www.worldcat.org/oclc/262632545",
+    "keywords": ["bereavement", "loss", "grief stages"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/GriefWorkModel.png/600px-GriefWorkModel.png",
+    "imageReference": "Wikipedia. (n.d.). Grief Work Model [Image]."
+  },
+  {
+    "id": 90,
+    "name": "Cumulative Inequality Theory",
+    "description": "Examines how advantage or disadvantage accumulates across the life course, affecting health.",
+    "reference": "Ferraro, K. F., & Shippee, T. P. (2009). Aging and cumulative inequality. The Journals of Gerontology, 65B(3), 319–328. https://doi.org/10.1093/geronb/gbp103",
+    "url": "https://doi.org/10.1093/geronb/gbp103",
+    "keywords": ["life course", "inequality", "accumulation"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cumulative_Inequality_Theory_diagram.png/600px-Cumulative_Inequality_Theory_diagram.png",
+    "imageReference": "Wikipedia. (n.d.). Cumulative Inequality Theory [Image]."
+  },
+  {
+    "id": 91,
+    "name": "Pen-3 Cultural Model",
+    "description": "Focuses on cultural identity, relationships, and cultural empowerment in health education contexts.",
+    "reference": "Airhihenbuwa, C. O. (1989). Perspectives on AIDS in Africa. Journal of Health Education, 20(5), 196–200. https://doi.org/10.1080/10556699.1989.10616237",
+    "url": "https://doi.org/10.1080/10556699.1989.10616237",
+    "keywords": ["culture", "empowerment", "health education"],
+    "image": "https://sphweb.bumc.bu.edu/otlt/MPH-Modules/images/PEN-3Model.png",
+    "imageReference": "Boston University School of Public Health. (n.d.). PEN-3 Model [Image]."
+  },
+  {
+    "id": 92,
+    "name": "Responsive Regulation Theory",
+    "description": "Discusses regulatory compliance, highlighting a pyramidal approach from persuasion to sanctions.",
+    "reference": "Braithwaite, J. (2002). Restorative justice & responsive regulation. Oxford University Press.",
+    "url": "https://www.worldcat.org/oclc/49701616",
+    "keywords": ["compliance", "regulation", "sanctions"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ResponsiveRegulationPyramid.png/600px-ResponsiveRegulationPyramid.png",
+    "imageReference": "Wikipedia. (n.d.). Responsive Regulation Pyramid [Image]."
+  },
+  {
+    "id": 93,
+    "name": "Psychoeducation Model",
+    "description": "Integrates educational components into therapeutic interventions for mental health or social issues.",
+    "reference": "Anderson, C. M., Hogarty, G. E., & Reiss, D. J. (1980). Family therapy with schizophrenic patients. Schizophrenia Bulletin, 6(3), 490–505. https://doi.org/10.1093/schbul/6.3.490",
+    "url": "https://doi.org/10.1093/schbul/6.3.490",
+    "keywords": ["education", "therapy", "mental health"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Psychoeducation_Model.png/600px-Psychoeducation_Model.png",
+    "imageReference": "Wikipedia. (n.d.). Psychoeducation [Image]."
+  },
+  {
+    "id": 94,
+    "name": "Stages of Group Development (Tuckman)",
+    "description": "Groups progress through forming, storming, norming, performing, and adjourning phases.",
+    "reference": "Tuckman, B. W. (1965). Developmental sequence in small groups. Psychological Bulletin, 63(6), 384–399. https://doi.org/10.1037/h0022100",
+    "url": "https://doi.org/10.1037/h0022100",
+    "keywords": ["group dynamics", "team development", "phases"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Tuckman%27s_stages_of_group_development.png/600px-Tuckman%27s_stages_of_group_development.png",
+    "imageReference": "Wikipedia. (n.d.). Tuckman’s Stages of Group Development [Image]."
+  },
+  {
+    "id": 95,
+    "name": "Intersectional Stigma Framework",
+    "description": "Analyzes overlapping stigmatized identities (e.g., race, sexuality, HIV status) and compounded discrimination.",
+    "reference": "Turan, J. M., Elafros, M. A., Logie, C. H., Banik, S., Turan, I. C., Crockett, K. B., ... Murray, S. M. (2019). Challenges and opportunities in examining and addressing intersectional stigma. Social Science & Medicine, 232, 489–495. https://doi.org/10.1016/j.socscimed.2019.04.033",
+    "url": "https://doi.org/10.1016/j.socscimed.2019.04.033",
+    "keywords": ["stigma", "intersectionality", "discrimination", "minority health"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Intersectional_Stigma_Framework_diagram.png/600px-Intersectional_Stigma_Framework_diagram.png",
+    "imageReference": "Wikipedia. (n.d.). Intersectional Stigma Framework [Image]."
+  },
+  {
+    "id": 96,
+    "name": "Protective Factors Framework",
+    "description": "Identifies family and community factors that prevent child abuse and neglect.",
+    "reference": "Strengthening Families. (2012). Protective factors framework. Center for the Study of Social Policy.",
+    "url": "https://cssp.org/our-work/project/strengthening-families/",
+    "keywords": ["child welfare", "protective factors", "prevention"],
+    "image": "https://www.childwelfare.gov/pubimages/strengthening_families.png",
+    "imageReference": "Center for the Study of Social Policy. (n.d.). Protective Factors Framework [Image]."
+  },
+  {
+    "id": 97,
+    "name": "Social Norms Theory",
+    "description": "Posits that behavior is influenced by perceptions of normative beliefs within groups.",
+    "reference": "Perkins, H. W., & Berkowitz, A. D. (1986). Perceiving the community norm. In H. W. Perkins (Ed.), The social norms approach to preventing school and college age substance abuse. Jossey-Bass.",
+    "url": "https://www.worldcat.org/oclc/13020728",
+    "keywords": ["normative beliefs", "peer influence", "behavior"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Social_Norms_Theory_flowchart.png/600px-Social_Norms_Theory_flowchart.png",
+    "imageReference": "Wikipedia. (n.d.). Social Norms Theory [Image]."
+  },
+  {
+    "id": 98,
+    "name": "Self-Determination Theory (SDT)",
+    "description": "Emphasizes autonomy, competence, and relatedness as fundamental to motivation and well-being.",
+    "reference": "Deci, E. L., & Ryan, R. M. (1985). Intrinsic motivation and self-determination in human behavior. Plenum Press. https://doi.org/10.1007/978-1-4899-2271-7",
+    "url": "https://doi.org/10.1007/978-1-4899-2271-7",
+    "keywords": ["motivation", "autonomy", "competence", "relatedness"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Self-Determination_Theory_Model.png/600px-Self-Determination_Theory_Model.png",
+    "imageReference": "Wikipedia. (n.d.). Self-Determination Theory [Image]."
+  },
+  {
+    "id": 99,
+    "name": "Postcolonial Feminist Theory",
+    "description": "Examines the intersections of colonial histories, gender, and race in power structures.",
+    "reference": "Mohanty, C. T. (1988). Under Western eyes. Feminist Review, 30, 61–88. https://doi.org/10.1057/fr.1988.42",
+    "url": "https://doi.org/10.1057/fr.1988.42",
+    "keywords": ["postcolonial", "feminism", "power", "race"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Postcolonial_Feminist_Theory_diagram.png/600px-Postcolonial_Feminist_Theory_diagram.png",
+    "imageReference": "Wikipedia. (n.d.). Postcolonial Feminist Theory [Image]."
+  },
+  {
+    "id": 100,
+    "name": "Convergence Model of Public Health",
+    "description": "Addresses how multiple disciplines—human, animal, and environmental health—converge to address global challenges.",
+    "reference": "Daszak, P., Zambrana-Torrelio, C., & Tabor, G. M. (2013). A universal need for One Health. EcoHealth, 10, 1–3. https://doi.org/10.1007/s10393-013-0822-5",
+    "url": "https://doi.org/10.1007/s10393-013-0822-5",
+    "keywords": ["One Health", "multidisciplinary", "global health"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Convergence_Model_of_Public_Health.png/600px-Convergence_Model_of_Public_Health.png",
+    "imageReference": "Wikipedia. (n.d.). Convergence Model of Public Health [Image]."
+  }
+]
