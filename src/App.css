@@ -2,8 +2,9 @@
 body {
   margin: 0;
   font-family: 'Fira Sans Extra Condensed', sans-serif;
-  overflow: hidden; /* Prevent overall page scrolling */
   height: 100vh; /* Full viewport height */
+  display: flex;
+  flex-direction: column;
 }
 
 /* Layout styles */
@@ -32,15 +33,13 @@ body {
 .layout {
   display: flex;
   flex-direction: column;
-  height: 100vh; /* Full height */
-  overflow: hidden; /* Prevent double scrolling on parent container */
+  min-height: 100vh; /* Ensures the layout fills the viewport */
 }
 
 .layout-body {
   display: flex;
-  flex: 1;
+  flex: 1; /* Makes the main body grow and fill available space */
   overflow: hidden; /* Prevent unnecessary scrollbars */
-  align-items: flex-start; /* Align all columns to the top */
 }
 
 /* Sidebar styles */
@@ -68,13 +67,14 @@ body {
 
 /* Main content styles */
 .main-content {
-  flex: 1 1 auto;
-  padding: 1rem 2rem 2rem; /* Adjust top padding */
-  overflow-y: auto; /* Enable scrolling for long content */
+  flex: 1;
+  padding: 1rem 2rem 2rem;
+  overflow-y: auto; /* Enable vertical scrolling for long content */
   background-color: #ffffff;
   font-family: 'Fira Sans Extra Condensed', sans-serif;
   font-weight: 300;
   color: #333333;
+  box-sizing: border-box; /* Ensure padding is included in width/height */
 }
 
 /* Model Title Styling */
