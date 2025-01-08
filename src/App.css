@@ -28,19 +28,19 @@ body {
   margin-top: 0.5rem;
 }
 
-/* Layout styles */
+/* Main layout styles */
 .layout {
   display: flex;
   flex-direction: column;
-  height: 100vh; /* Full height of the viewport */
-  overflow: hidden; /* Prevent unnecessary parent scrolling */
+  height: 100vh; /* Full height */
+  overflow: hidden; /* Prevent double scrolling on parent container */
 }
 
 .layout-body {
   display: flex;
-  flex: 1; /* Fill available space */
-  overflow: hidden; /* Prevent side scrollbars */
-  align-items: flex-start;
+  flex: 1;
+  overflow: hidden; /* Prevent unnecessary scrollbars */
+  align-items: flex-start; /* Align all columns to the top */
 }
 
 /* Sidebar styles */
@@ -68,9 +68,9 @@ body {
 
 /* Main content styles */
 .main-content {
-  flex: 1; /* Expand to fill available space */
-  overflow-y: auto; /* Enable vertical scrolling for long content */
-  padding: 1rem 2rem 2rem; /* Adjust padding */
+  flex: 1 1 auto;
+  padding: 1rem 2rem 2rem; /* Adjust top padding */
+  overflow-y: auto; /* Enable scrolling for long content */
   background-color: #ffffff;
   font-family: 'Fira Sans Extra Condensed', sans-serif;
   font-weight: 300;
