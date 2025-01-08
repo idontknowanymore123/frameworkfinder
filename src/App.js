@@ -98,7 +98,7 @@ export default function App() {
       }
       footer={
 <p className="footer-text">
-Disclaimer: This website is exclusively intended for instructional and non-commercial purposes. All information presented on this website is the intellectual property of its respective authors and/or publishers. The source content was gathered using an artificial intelligence-driven large language model chatbot (i.e., ChatGPT 4o) and may contain inaccuracies. Users (i.e., students and academic researchers) are solely responsible for verifying the accuracy of this information against original sources obtained directly from journals, publishers, or authors themselves. The development team is not liable for any errors on the site or in works utilizing the information presented here.
+Disclaimer - This website is exclusively intended for instructional and non-commercial purposes. All information presented on this website is the intellectual property of its respective authors and/or publishers. The source content was gathered using an artificial intelligence-driven large language model chatbot (i.e., ChatGPT 4o) and may contain inaccuracies. Users (i.e., students and academic researchers) are solely responsible for verifying the accuracy of this information against original sources obtained directly from journals, publishers, or authors themselves. The development team is not liable for any errors on the site or in works utilizing the information presented here.
 </p>
       }
     />
