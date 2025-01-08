@@ -1,15 +1,33 @@
-import React from 'react';
+import React from "react";
+import LeftSidebar from "./LeftSidebar";
+import RightSidebar from "./RightSidebar";
 
-export default function Layout({ header, leftSidebar, main, rightSidebar, footer }) {
+export default function Layout({
+  children,
+  models,
+  selectedModel,
+  onSelectModel,
+  selectedKeyword,
+  onKeywordClick,
+}) {
   return (
     <div className="layout">
-      <header className="header">{header}</header>
-      <div className="layout-body">
-        <aside className="sidebar">{leftSidebar}</aside>
-        <main className="main-content">{main}</main>
-        <aside className="sidebar">{rightSidebar}</aside>
+      <div className="left-sidebar">
+        <LeftSidebar
+          models={models}
+          selectedModel={selectedModel}
+          onKeywordClick={onKeywordClick}
+        />
       </div>
-      <footer className="footer">{footer}</footer>
+      <div className="main-content">{children}</div>
+      <div className="right-sidebar">
+        <RightSidebar
+          models={models}
+          selectedModel={selectedModel}
+          selectedKeyword={selectedKeyword}
+          onSelectModel={onSelectModel}
+        />
+      </div>
     </div>
   );
 }
