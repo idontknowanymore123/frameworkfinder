@@ -247,7 +247,7 @@ body {
   margin-top: 2rem;
   max-width: 80%; /* Scale down if it’s wider than the container */
   height: auto;    /* Maintain aspect ratio */
-  margin-bottom: 2rem; /* Optional space */
+  margin-bottom: 6rem; /* Optional space */
 }
 
 /* ---------------------- */
