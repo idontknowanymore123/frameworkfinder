@@ -7,8 +7,8 @@
     "reference": "Rosenstock, I. M. (1966). Why people use health services. The Milbank Memorial Fund Quarterly, 44(3), 94–127. https://doi.org/10.1111/j.1468-0009.1966.tb00390.x",
     "url": "https://doi.org/10.1111/j.1468-0009.1966.tb00390.x",
     "keywords": ["health behavior", "perceived barriers", "susceptibility", "self-efficacy"],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Health_belief_model.png/1200px-Health_belief_model.png",
-    "imageReference": "Wikipedia. (n.d.). Health Belief Model [Image]. https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Health_belief_model.png/1200px-Health_belief_model.png"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Dynamic_Health_Belief_Model2.gif",
+    "imageReference": "Wikipedia. (n.d.). Health Belief Model [Image]."
   },
   {
     "id": 2,
@@ -17,8 +17,8 @@
     "reference": "Bandura, A. (1986). Social foundations of thought and action: A social cognitive theory. Prentice Hall.",
     "url": "https://www.worldcat.org/oclc/12021527",
     "keywords": ["self-efficacy", "observational learning", "reciprocal determinism"],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Social_Cognitive_Theory_diagram.jpg",
-    "imageReference": "Wikipedia. (n.d.). Social Cognitive Theory [Image]. https://upload.wikimedia.org/wikipedia/commons/9/92/Social_Cognitive_Theory_diagram.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Triadic_Causation_Model.png",
+    "imageReference": "Wikipedia. (n.d.). Social Cognitive Theory [Image]."
   },
   {
     "id": 3,
@@ -27,8 +27,8 @@
     "reference": "Prochaska, J. O., & DiClemente, C. C. (1983). Stages and processes of self-change of smoking. Progress in Behavior Modification, 19, 275–309.",
     "url": "https://www.worldcat.org/oclc/19469587",
     "keywords": ["behavior change", "readiness", "motivation"],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Stages_of_change.png",
-    "imageReference": "Wikipedia. (n.d.). Transtheoretical Model [Image]. https://upload.wikimedia.org/wikipedia/commons/1/12/Stages_of_change.png"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Transtheoretical_Model_-_Stages_of_change.jpg",
+    "imageReference": "Wikipedia. (n.d.). Transtheoretical Model [Image]."
   },
   {
     "id": 4,
@@ -37,8 +37,8 @@
     "reference": "Ajzen, I. (1991). The theory of planned behavior. Organizational Behavior and Human Decision Processes, 50(2), 179–211. https://doi.org/10.1016/0749-5978(91)90020-T",
     "url": "https://doi.org/10.1016/0749-5978(91)90020-T",
     "keywords": ["intention", "subjective norms", "attitude"],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Theory_of_Planned_Behaviour.png/550px-Theory_of_Planned_Behaviour.png",
-    "imageReference": "Wikipedia. (n.d.). Theory of Planned Behavior [Image]. https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Theory_of_Planned_Behaviour.png/550px-Theory_of_Planned_Behaviour.png"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Theory_of_planned_behavior.png",
+    "imageReference": "Wikipedia. (n.d.). Theory of Planned Behavior [Image]."
   },
   {
     "id": 5,
@@ -67,8 +67,8 @@
     "reference": "World Health Organization. (2008). Closing the gap in a generation: Health equity through action on the social determinants of health. WHO.",
     "url": "https://www.who.int/publications-detail-redirect/WHO-IER-CSDH-08.1",
     "keywords": ["equity", "poverty", "inequality"],
-    "image": "https://www.cdc.gov/socialdeterminants/images/SDOH-framework.jpg",
-    "imageReference": "Centers for Disease Control and Prevention. (n.d.). Social Determinants of Health [Image]. https://www.cdc.gov/"
+    "image": "https://odphp.health.gov/sites/default/files/2020-07/SDOH-NoText_0.svg",
+    "imageReference": "Healthy People 2030, U.S. Department of Health and Human Services, Office of Disease Prevention and Health Promotion. Retrieved from https://odphp.health.gov/healthypeople/objectives-and-data/social-determinants-health"
   },
   {
     "id": 8,
@@ -147,8 +147,8 @@
     "reference": "Israel, B. A., Schulz, A. J., Parker, E. A., & Becker, A. B. (1998). Review of community-based research. Annual Review of Public Health, 19, 173–202. https://doi.org/10.1146/annurev.publhealth.19.1.173",
     "url": "https://doi.org/10.1146/annurev.publhealth.19.1.173",
     "keywords": ["participatory research", "collaboration", "community engagement"],
-    "image": "https://depts.washington.edu/ccph/pdf_files/CBPR-model.jpg",
-    "imageReference": "University of Washington. (n.d.). CBPR Model [Image]. https://depts.washington.edu/ccph/"
+    "image": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e975/4839192/09089aa5c47f/nihms758867f2.jpg",
+    "imageReference": "Belone, L., Lucero, JE., Duran, B., Tafoya, G., Baker, EA., Chan, D., Chang, C., Greene-Moton, E., Kelley, M., & Wallerstein, N. (2016). Community-Based Participatory Research Conceptual Model: Community Partner Consultation and Face Validity. Qualitative Health Research, 26(1), 117–135. https://doi.org/10.1177/1049732314557084"
   },
   {
     "id": 16,
@@ -157,8 +157,8 @@
     "reference": "Catania, J. A., Kegeles, S. M., & Coates, T. J. (1990). Toward an understanding of risk behavior. Health Education Quarterly, 17(1), 53–72. https://doi.org/10.1177/109019819001700107",
     "url": "https://doi.org/10.1177/109019819001700107",
     "keywords": ["HIV prevention", "sexual behavior", "risk reduction"],
-    "image": "https://www.unaids.org/sites/default/files/media_asset/UNAIDS_aidsrisk_model.png",
-    "imageReference": "UNAIDS. (n.d.). AIDS Risk Reduction Model [Image]. https://www.unaids.org/"
+    "image": "https://figures.semanticscholar.org/1bebc70f53d429551110cd51f5395e0b22742821/2-Figure1-1.png",
+    "imageReference": "Catania, J. A., Kegeles, S. M., & Coates, T. J. (1990). Toward an understanding of risk behavior. Health Education Quarterly, 17(1), 53–72. https://doi.org/10.1177/109019819001700107"
   },
   {
     "id": 17,
@@ -217,8 +217,8 @@
     "reference": "Glasgow, R. E., Vogt, T. M., & Boles, S. M. (1999). Evaluating the public health impact. American Journal of Public Health, 89(9), 1322–1327. https://doi.org/10.2105/AJPH.89.9.1322",
     "url": "https://doi.org/10.2105/AJPH.89.9.1322",
     "keywords": ["implementation science", "evaluation", "public health impact"],
-    "image": "https://re-aim.org/wp-content/uploads/2017/07/RE-AIM-Graphic.jpg",
-    "imageReference": "RE-AIM. (n.d.). RE-AIM Framework [Image]. https://re-aim.org/"
+    "image": "https://www.frontiersin.org/files/Articles/447368/fpubh-07-00064-HTML/image_m/fpubh-07-00064-g001.jpg",
+    "imageReference": "Glasgow, R. E., Harden, S. M., Gaglio, B., Rabin, B., Smith, M. L., Porter, G. C., Ory, M. G., & Estabrooks, P. A. (2019). RE-AIM Planning and Evaluation Framework: Adapting to New Science and Practice With a 20-Year Review. Frontiers in Public Health, 7. https://doi.org/10.3389/fpubh.2019.00064"
   },
   {
     "id": 23,
@@ -607,7 +607,7 @@
     "reference": "DiClemente, C. C., & Prochaska, J. O. (1998). Toward a comprehensive model of change. In W. R. Miller & N. Heather (Eds.), Treating addictive behaviors (2nd ed.). Plenum Press.",
     "url": "https://www.worldcat.org/oclc/39013150",
     "keywords": ["substance abuse", "TTM", "readiness"],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stages_of_change.png/600px-Stages_of_change.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Transtheoretical_Model_-_Stages_of_change.jpg",
     "imageReference": "Wikipedia. (n.d.). Transtheoretical Model [Image]."
   },
   {
@@ -617,7 +617,7 @@
     "reference": "Kretzmann, J. P., & McKnight, J. L. (1993). Building communities from the inside out. ACTA Publications.",
     "url": "https://www.worldcat.org/oclc/32073620",
     "keywords": ["community assets", "empowerment", "sustainable development"],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Asset_Based_Community_Development.png/600px-Asset_Based_Community_Development.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Asset_map.svg/512px-Asset_map.svg.png",
     "imageReference": "Wikipedia. (n.d.). Asset-Based Community Development [Image]."
   },
   {
@@ -637,8 +637,8 @@
     "reference": "Tervalon, M., & Murray-García, J. (1998). Cultural humility. Journal of Health Care for the Poor and Underserved, 9(2), 117–125. https://doi.org/10.1353/hpu.2010.0233",
     "url": "https://doi.org/10.1353/hpu.2010.0233",
     "keywords": ["cultural humility", "self-reflection", "power imbalances"],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cultural_Humility_Concept_Map.png/600px-Cultural_Humility_Concept_Map.png",
-    "imageReference": "Wikipedia. (n.d.). Cultural Humility [Image]."
+    "image": "https://miro.medium.com/v2/resize:fit:4800/format:webp/1*5JeFrH65lMffyaNV2P4NuA.png",
+    "imageReference": "Chad. (2020, February 1). Day 31–2020: Cultural Humility. Medium. https://medium.com/@ChadWilliamson/day-31-2020-cultural-humility-c208030e4d2b"
   },
   {
     "id": 65,
@@ -657,8 +657,8 @@
     "reference": "Marlatt, G. A. (1996). Harm reduction. Addictive Behaviors, 21(6), 779–788. https://doi.org/10.1016/0306-4603(96)00042-1",
     "url": "https://doi.org/10.1016/0306-4603(96)00042-1",
     "keywords": ["substance use", "risk reduction", "public health"],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Harm_reduction.png/600px-Harm_reduction.png",
-    "imageReference": "Wikipedia. (n.d.). Harm Reduction [Image]."
+    "image": "https://cdn.psychologytoday.com/sites/default/files/styles/image-article_inline_full_caption/public/field_blog_entry_images/2019-09/screen_shot_2019-09-15_at_10.30.00_am_1.png?itok=MX-KGafJ",
+    "imageReference": "Tatarsky, A. (2019, September 19). They Didn’t Have to Die. Psychology Today. https://www.psychologytoday.com/sg/blog/beyond-disease/201909/they-didnt-have-die"
   },
   {
     "id": 67,
@@ -687,7 +687,7 @@
     "reference": "Engel, G. L. (1977). The need for a new medical model. Science, 196(4286), 129–136. https://doi.org/10.1126/science.847460",
     "url": "https://doi.org/10.1126/science.847460",
     "keywords": ["holistic", "health", "illness", "three domains"],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Biopsychosocial_Model.jpg/600px-Biopsychosocial_Model.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Biopsychosocial_Model_of_Health_1.png",
     "imageReference": "Wikipedia. (n.d.). Biopsychosocial Model [Image]."
   },
   {
@@ -867,7 +867,7 @@
     "reference": "Michie, S., Atkins, L., & West, R. (2014). The behaviour change wheel. Silverback Publishing.",
     "url": "https://www.behaviourchangewheel.com/",
     "keywords": ["behavior change", "intervention design", "policy"],
-    "image": "https://www.behaviourchangewheel.com/wp-content/uploads/2020/09/BCW-graphic.png",
+    "image": "https://media.springernature.com/full/springer-static/image/art%3A10.1186%2F1748-5908-6-42/MediaObjects/13012_2011_Article_352_Fig2_HTML.jpg?as=webp",
     "imageReference": "Michie, S., Atkins, L., & West, R. (2014). The behaviour change wheel [Image]."
   },
   {
